@@ -4,6 +4,9 @@
 🌐 **Live Interactive Dashboard:**  
 # https://arjun000.pythonanywhere.com
 
+## Dashboard  video Demonstration
+<img width="1280" height="720" alt="video demo" src="https://github.com/user-attachments/assets/cc77232e-87fc-4d16-a2e7-ba02de38ec6d" />
+
 An interactive sales analytics dashboard developed using Python, Dash, Plotly, and Pandas.
 
 Europe Sales Records Analysis Python Dashboard:
