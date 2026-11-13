@@ -1,6 +1,4 @@
 # Py-Dashboard---Analytics
-# DV_Assignment
-
 # Europe Sales Analytics Dashboard
 
 🌐 **Live Interactive Dashboard:**  
