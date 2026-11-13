@@ -1,6 +1,13 @@
 # Py-Dashboard---Analytics
 # DV_Assignment
 
+# Europe Sales Analytics Dashboard
+
+🌐 **Live Interactive Dashboard:**  
+# https://arjun000.pythonanywhere.com
+
+An interactive sales analytics dashboard developed using Python, Dash, Plotly, and Pandas.
+
 Europe Sales Records Analysis Python Dashboard:
 
 This project showcases my ability to create interactive and insightful data visualizations using Python, enhancing decision-making processes through data analysis. We are excited to share this project with you all on LinkedIn.
