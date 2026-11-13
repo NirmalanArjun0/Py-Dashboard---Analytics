@@ -9,7 +9,7 @@ from dash_bootstrap_templates import load_figure_template
 
 
 # dataset
-data = pd.read_csv("europe_sales_records_2012_2017.csv")
+data = pd.read_csv("dataset.csv/europe_sales_records_2012_2017.csv")
 data['Order Date'] = pd.to_datetime(data['Order Date'])
 
 # line Dropdown options
